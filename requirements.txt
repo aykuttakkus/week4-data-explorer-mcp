@@ -1,2 +1,6 @@
-mcp
-httpx
+mcp>=1.30,<2
+httpx>=0.28,<1
+pycountry>=24,<27
+pytest>=8,<10
+python-dotenv>=1.2,<2
+ruff>=0.14,<1
